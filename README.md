@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @flexhd41
 - 👀 I’m interested in Discord Bots
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and javascript 
 
 
 <!---
